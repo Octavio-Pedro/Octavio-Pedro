@@ -9,5 +9,3 @@ Ajudar as pessoas e isso que moveu a ser publicitário e designer, isso faz  9 a
 ](https://github.com/Octavio-Pedro)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio-Pedro&layout=compact)](https://github.com/Octavio-Pedro)
 
 Siga-me: 👇🏼
-
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCPxQIWqous2kQ_X9H-zaP7w) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/oct%C3%A1vio-pedro/) [![Instagram Badge]*!(https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](/)*!
